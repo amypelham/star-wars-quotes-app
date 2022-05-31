@@ -1,7 +1,7 @@
 # star-wars-quotes-app
 Simple Crud app with Node, Express, and MongoDB
 
-[<a href="https://ibb.co/30wqK9k">](https://i.ibb.co/55dyZg2/Screen-Shot-2022-05-31-at-11-03-36-AM.png)
+<img src="https://i.ibb.co/55dyZg2/Screen-Shot-2022-05-31-at-11-03-36-AM.png" border="0">
 
 ## How It's Made:
 
