@@ -1,16 +1,16 @@
 # star-wars-quotes-app
 Simple Crud app with Node, Express, and MongoDB
 
-<img src="https://i.ibb.co/WvnkC1n/Screen-Shot-2022-05-29-at-10-29-21-PM.png" alt="Screen-Shot-2022-05-29-at-10-29-21-PM" border="0">
+<img src="https://i.ibb.co/55dyZg2/Screen-Shot-2022-05-31-at-11-03-36-AM.png" border="0">
 
 ## How It's Made:
 
-**Tech used:** JavaScript, VS Code, Crud, Node, Express, MongoDB
+**Tech used:** JavaScript, VS Code, Crud, Node, Express, MongoDB, CSS, HTML
 
 
 ## Optimizations
 
-If I had more time I'd spruce up the CSS and HTML to give it a bit more style.
+This app is simple in nature and could use more features, functionality, and interactive elements. I could include more input options which would allow me to organize the database by movie, sentiment, and tone.
 
 ## Lessons Learned:
 
